@@ -15,15 +15,18 @@ string HOTEL::GetName()
 	return name;
 }
 
-int APPARTMENT::GetAmountRooms()
+
+int APPARTMENT::GetAddAmountRooms()
 {
 	return amountRooms;
 }
-void APPARTMENT::SetAmountRooms()
+void APPARTMENT::SetAddAmountRooms()
 {
 	cout << "Сколько вы хотетие добавить комнат?" << endl;
+	cout << "................................................." << endl;
 	cin >> amountRooms;
 }
+
 
 int APPARTMENT::GetRoomNumber()
 {
@@ -31,9 +34,22 @@ int APPARTMENT::GetRoomNumber()
 }
 void APPARTMENT::SetRoomNumber()
 {
-	cout << "Каким номером будет комната?" << endl;
+	cout << "Каким будет номер комнаты?" << endl;
 	cin >> roomNumber;
 }
+
+
+int APPARTMENT::GetDelAmountRooms()
+{
+	return amountRooms;
+}
+void APPARTMENT::SetDelAmountRooms()
+{
+	cout << "Сколько вы хотетие удалить комнат?" << endl;
+	cout << "................................................." << endl;
+	cin >> amountRooms;
+}
+
 
 //int APPARTMENT::GetFloor()
 //{

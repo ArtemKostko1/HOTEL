@@ -1,21 +1,20 @@
 #include "pch.h"
 #include "vector.h"
 
-vector<APPARTMENT>vecR;
+vector<HOTELAPPARTMENT>vecR;
+HOTELAPPARTMENT room;
 
 void addRoom()
 {
-	HOTELAPPARTMENT room;
 	room.SetRoomNumber();
 	vecR.push_back(room);
 }
 
-//void delRoom()
-//{
-//	HOTELAPPARTMENT room;
-//	room.SetRoomNumber();
-//	vecR.pop_back(room);
-//}
+void delRoom()
+{
+	HOTELAPPARTMENT room;
+	vecR.pop_back();
+}
 
 void printVector()
 {
@@ -27,5 +26,14 @@ void printVector()
 
 void edit()
 {
+	vector<HOTELAPPARTMENT>::iterator it = vecR.begin();
 
+	int buffer;
+	cout << "................................................." << endl;
+	cout << "Какую комнату вы хотите изменить? " << endl;
+	cin >> buffer;
+
+	advance(it, buffer);
+	room.SetRoomNumber();
+	
 }

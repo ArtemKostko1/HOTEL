@@ -21,7 +21,7 @@ public:
 	}
 
 	void printAddress();
-	void write1();
+	/*void write1();*/
 
 };
 
@@ -39,7 +39,7 @@ public:
 	}
 
 	void printName();
-	void write2();
+	//void write2();
 
 };
 
@@ -54,13 +54,16 @@ public:
 
 	////////////////////////////////////////////////////////////////Гетторы\сетторы/////////////////////////////////////////////////////////////////// 
 
-	int GetAmountRooms();
-	void SetAmountRooms();
+	int GetAddAmountRooms();
+	void SetAddAmountRooms();
 
 	int GetRoomNumber();
 	void SetRoomNumber();
 
-	void write3();
+	int GetDelAmountRooms();
+	void SetDelAmountRooms();
+
+	//void write3();
 
 	//int GetFloor();
 	//void SetFloor(int floor);

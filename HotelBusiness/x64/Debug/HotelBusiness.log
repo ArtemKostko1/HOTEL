@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  Function.cpp
-  HotelBusiness.cpp
-  Menu.cpp
-  vector.cpp
-d:\work\hotelbusiness\hotel\hotelbusiness\vector.cpp(15): warning C4101: room: неиспользованная локальная переменная
-  Создание кода...
-  HotelBusiness.vcxproj -> D:\WORK\HotelBusiness\HOTEL\x64\Debug\HotelBusiness.exe

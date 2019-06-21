@@ -1,8 +1,2 @@
-﻿  Function.cpp
-  Menu.cpp
-  Vector.cpp
-d:\work\hotelbusiness\hotel\hotelbusiness\hotelbusiness\vector.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
-d:\work\hotelbusiness\hotel\hotelbusiness\hotelbusiness\vector.cpp(33): warning C4018: >: несоответствие типов со знаком и без знака
-d:\work\hotelbusiness\hotel\hotelbusiness\hotelbusiness\vector.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
+﻿  Menu.cpp
   HotelBusiness.vcxproj -> D:\WORK\HotelBusiness\HOTEL\HotelBusiness\Debug\HotelBusiness.exe

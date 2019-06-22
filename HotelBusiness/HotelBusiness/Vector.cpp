@@ -35,9 +35,7 @@ void edit()
 		cout << "Такой комнаты не существует в отеле!" << endl;
 		return;
 	}
-
 	vecR[buffer - 1].SetRoomNumber();
-
 }
 
 
@@ -46,14 +44,11 @@ void writeVec()
 	ofstream fout("MyFile.txt", ios::app);
 
 	fout << "Список номеров в отеле: "<< endl;
-
 	for (int i = 0; i < vecR.size(); i++)
 	{
 		fout << "Номер: " << vecR[i].GetRoomNumber();
 		fout << endl;
 	}
-
-	cout<< "\n**********************************************************************"<<endl;
-
+	fout<< "\n**********************************************************************"<<endl;
 }
 

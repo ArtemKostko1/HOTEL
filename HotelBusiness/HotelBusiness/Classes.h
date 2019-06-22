@@ -67,7 +67,7 @@ public:
 	//void SetFloor(int floor);
 
 	string GetStatus();
-	void SetStatus(bool status); 
+	void SetStatus(bool status);
 
 	//void printFloor();
 	//void delRoom(int);

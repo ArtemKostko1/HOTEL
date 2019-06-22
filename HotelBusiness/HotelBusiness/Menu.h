@@ -1,6 +1,11 @@
 #pragma once
 #include <Windows.h>
+#include "Classes.h"
+#include "vector.h"
+#include <string>
 using namespace std;
 
-void Menu();
+void MenuAdmin();
+
+void MenuGyest();
 

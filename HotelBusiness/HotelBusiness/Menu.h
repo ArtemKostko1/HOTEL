@@ -1,8 +1,7 @@
-#pragma once
-#include <Windows.h>
+#pragma once//защита от зацикленного подключения файла
+#include <Windows.h>//Windows Forms
 #include "Classes.h"
-#include "vector.h"
-#include <string>
+#include <string>//библиотека работы со строками 
 using namespace std;
 
 void MenuAdmin();

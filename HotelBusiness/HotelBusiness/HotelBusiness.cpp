@@ -3,7 +3,7 @@
 int main()
 {
 	system("chcp 1251");
-	system("mode con lines=35 cols=100");
+	system("mode con lines=40 cols=100");
 
 	int list;
 	int vhod;

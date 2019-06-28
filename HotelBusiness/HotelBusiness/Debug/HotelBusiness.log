@@ -1,2 +1,25 @@
-﻿  Menu.cpp
+﻿  Function.cpp
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(116): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(154): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(190): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(202): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(214): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(237): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(257): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(232): warning C4101: bufferfloor: неиспользованная локальная переменная
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(281): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(293): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(305): warning C4018: >: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(322): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(323): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(324): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(334): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(335): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(391): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(409): warning C4018: <: несоответствие типов со знаком и без знака
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+  Menu.cpp
+  Создание кода...
+d:\кп\hotelbusiness\hotelbusiness\function.cpp(360): warning C4717: operator>>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
   HotelBusiness.vcxproj -> D:\КП\HotelBusiness\Debug\HotelBusiness.exe
